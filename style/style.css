@@ -439,6 +439,7 @@ nav {
    width: 50%;
    text-align: justify;
    margin-left: 100px;
+   color: white;
    
     
 }
@@ -550,6 +551,7 @@ nav {
     font-size: 1.3rem;
     margin-bottom: 12px;
     color: var(--text-color);
+    transition: color 0.3s;
 }
 
 .project-info p {
@@ -557,6 +559,8 @@ nav {
     margin-bottom: 18px;
     line-height: 1.6;
     font-size: 0.95rem;
+    transition: color 0.3s;
+    text-align: justify;
 }
 
 .project-tech {
