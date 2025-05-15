@@ -330,7 +330,7 @@ nav {
 
 .skills-section {
     display: flex;
-    margin: -45px 0 30px 400px;
+    margin: -45px 0 30px 330px;
     padding: 0;
     background-color: var(--card-color);
     border-radius: 8px;
@@ -376,7 +376,7 @@ nav {
     background-color: var(--card-color);
     border-radius: 0 0 8px 8px;
     animation: fadeIn 0.5s ease;
-    margin-left: 400px;
+    margin-left: 330px;
     width: 50%;
 }
 
@@ -436,6 +436,10 @@ nav {
 }
 .text-about{
    margin-top: 50px;
+   width: 50%;
+   text-align: justify;
+   margin-left: 100px;
+   
     
 }
 
@@ -747,6 +751,11 @@ footer {
     .tab-content{
         margin-left: 10px;
         width: auto;
+    }
+    .text-about{
+        width: 80%;
+        margin-left: 50px;
+
     }
 
     
