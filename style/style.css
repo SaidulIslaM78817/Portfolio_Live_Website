@@ -820,10 +820,11 @@ footer {
     .hero-image {
         margin-top: 40px;
     }
-
+   
     .skills-section {
         flex-direction: column;
         width: 100%;
+       
     }
     .about-image {
        
@@ -841,6 +842,7 @@ footer {
     .section-title {
         font-size: 2rem;
     }
+    
 }
 
 @media (max-width: 480px) {
