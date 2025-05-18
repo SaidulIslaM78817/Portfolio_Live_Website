@@ -451,6 +451,13 @@ nav {
     margin-top: -10px;
 
 }
+.abacus:hover{
+    color: #e2e8f0;
+    
+}
+.abacus a{
+    text-decoration-line: none;
+}
 
 /* Documents Section */
 .documents-section {
